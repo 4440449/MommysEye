@@ -1,3 +1,3 @@
 # MommysEye
 
-A description of this package.
+Default pattern 'Observer'
