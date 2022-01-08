@@ -1,2 +1,0 @@
-# MommysEye
-Default observer pattern
