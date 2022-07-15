@@ -44,7 +44,7 @@ public final class Publisher<V> { //: Observable {
     }
     
     deinit {
-        print("Publisher is deinit")
+//        print("Publisher is deinit")
     }
     
 }

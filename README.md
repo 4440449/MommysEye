@@ -1,3 +1,3 @@
 # MommysEye
 
-Default pattern 'Observer'
+Default 'Observer' pattern
